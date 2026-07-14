@@ -1,0 +1,6 @@
+# C 语言编译结果
+c/build/
+
+# Python 临时文件
+__pycache__/
+*.pyc
